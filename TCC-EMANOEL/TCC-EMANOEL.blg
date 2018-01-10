@@ -1,0 +1,20 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: TCC-EMANOEL.aux
+A level-1 auxiliary file: abntex2-modelo-include-comandos.aux
+I couldn't open database file abntex2-modelo-references.bib
+---line 95 of file TCC-EMANOEL.aux
+ : \bibdata{abntex2-options,abntex2-modelo-references
+ :                                                   }
+I'm skipping whatever remains of this command
+The style file: abntex2-alf.bst
+Database file #1: abntex2-options.bib
+Warning--I didn't find a database entry for "abntex2classe"
+Warning--I didn't find a database entry for "abntex2-wiki-como-customizar"
+Warning--I didn't find a database entry for "abntex2cite"
+Warning--I didn't find a database entry for "abntex2cite-alf"
+Warning--I didn't find a database entry for "memoir"
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+(There was 1 error message)
