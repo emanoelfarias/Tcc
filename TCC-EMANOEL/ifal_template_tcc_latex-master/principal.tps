@@ -14,11 +14,11 @@ NormalPos.top=26
 NormalPos.right=1008
 NormalPos.bottom=393
 Class=LaTeXView
-Document=TCC-EMANOEL.tex
+Document=principal.tex
 
 [Frame0_View0,0]
-TopLine=513
-Cursor=17612
+TopLine=66
+Cursor=1966
 
 [Frame1]
 Flags=0
@@ -31,12 +31,12 @@ NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1008
 NormalPos.bottom=393
-Class=BibTeXView
-Document=abntex2-modelo-references.bib
+Class=LaTeXView
+Document=rosto.tex
 
 [Frame1_View0,0]
-TopLine=0
-Cursor=27
+TopLine=48
+Cursor=1182
 
 [SessionInfo]
 FrameCount=2

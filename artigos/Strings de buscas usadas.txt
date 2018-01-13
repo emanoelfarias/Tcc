@@ -1,0 +1,4 @@
+String 1 : ("Finger Tapping Test" OR "Finger Tapping" OR "Finger Tap") AND Parkinson AND UPDRS AND Measurement
+
+String 1: ("Bater dedos" OR "Bater de dedos" OR "Teste batida de dedos") AND Parkinson AND UPDRS AND (mensurar OR
+Quantificar OR medir)

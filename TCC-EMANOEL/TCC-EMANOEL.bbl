@@ -5,4 +5,10 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Limongi 2001]{limongi2001}
+\abntrefinfo{Limongi}{LIMONGI}{2001}
+{LIMONGI, J. C.~P. \emph{Conhecendo melhor a doença de Parkinson}. São Paulo:
+  Plexus, 2001.
+ISBN 97-8858-568-95-51.}
+
 \end{thebibliography}
