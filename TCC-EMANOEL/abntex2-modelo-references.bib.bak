@@ -10,11 +10,43 @@
 }
 
 @Article{moreira2007,
-  author  = {Moreira, Cs Martins, Kfc Neri, Vc Araújo, Pg},
+  author  = {Moreira and Cs Martins and Kfc Neri and Vc Araújo},
   title   = {Doença De Parkinson : Como Diagnosticar E Tratar},
-  journal = {Faculdade de Medicida de Campos},
+  journal = {FMC.BR},
   year    = {2007},
   issn    = {7264201000570},
+}
+
+@Article{coelho2011,
+  author  = {Rhaonne Figueiredo Coelho and Gustavo Lopes Dias and Gracilene Félix Alves and Andressa Pitanga Serafim},
+  title   = {DOENÇA DE PARKINSON: UMA REVISÃO DA LITERATURA},
+  journal = {Revista Neurociências},
+  year    = {2011},
+}
+
+@Article{souza2011,
+  author  = {Cheylla Fabricia M Souza and Helayne Carolyne P Almeida and Jomário Batista Sousa and Pedro Henrique Costa and Yonara Sonaly S Silveira and João Carlos L Bezerra},
+  title   = {A Doença de Parkinson e o Processo de Envelhecimento Motor: Uma Revisão de Literatura},
+  journal = {Revista Neurociências},
+  year    = {2011},
+}
+
+@Book{ebook2016,
+  title     = {Understanding Parkinson's Disease: A Self-Help Guide},
+  publisher = {Addicus Books},
+  year      = {2016},
+  author    = {Steven H. Schechter, David L. Cra},
+  volume    = {1},
+  number    = {1},
+  edition   = {3},
+  isbn      = {978-1-943886-45-6},
+}
+
+@Article{rewar2015,
+  author  = {Suresh Rewar},
+  title   = {A systematic review on Parkinson's disease (PD)},
+  journal = {Indian Journal of Research in Pharmacy and Biotechnology},
+  year    = {2015},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
