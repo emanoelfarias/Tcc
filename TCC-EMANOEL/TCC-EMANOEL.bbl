@@ -5,6 +5,17 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Barbosa e Sallen 2005]{barbosa2005}
+\abntrefinfo{Barbosa e Sallen}{BARBOSA; SALLEN}{2005}
+{BARBOSA, E.~R.; SALLEN, F. A.~S. Doença de parkinson - diagnóstico.
+\emph{Revista Neurociências}, 2005.
+ISSN 1984-4905.}
+
+\bibitem[Kalia e Lang 2015]{kalia2015}
+\abntrefinfo{Kalia e Lang}{KALIA; LANG}{2015}
+{KALIA, L.; LANG, A. Parkinson's disease.
+\emph{The Lancet}, 2015.}
+
 \bibitem[Limongi 2001]{limongi2001}
 \abntrefinfo{Limongi}{LIMONGI}{2001}
 {LIMONGI, J. C.~P. \emph{Conhecendo melhor a doença de Parkinson}. São Paulo:
@@ -16,6 +27,12 @@ ISBN 97-8858-568-95-51.}
 {MOREIRA et al. Doença de parkinson : Como diagnosticar e tratar.
 \emph{FMC.BR}, 2007.
 ISSN 7264201000570.}
+
+\bibitem[Rewar 2015]{rewar2015}
+\abntrefinfo{Rewar}{REWAR}{2015}
+{REWAR, S. A systematic review on parkinson's disease (pd).
+\emph{Indian Journal of Research in Pharmacy and Biotechnology}, 2015.
+ISSN 2321-5674.}
 
 \bibitem[Schechter 2016]{ebook2016}
 \abntrefinfo{Schechter}{SCHECHTER}{2016}
