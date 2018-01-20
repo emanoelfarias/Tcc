@@ -57,12 +57,38 @@
   year    = {2015},
 }
 
-@Article{,
+@Article{barbosa2005,
   author  = {Egberto Reis Barbosa and Flávio Augusto Sekeff Sallen},
   title   = {Doença de Parkinson - Diagnóstico},
   journal = {Revista Neurociências},
   year    = {2005},
   issn    = {1984-4905},
+}
+
+@Article{nolden2014,
+  author  = {Leslie F. Nolden and Todd Tartavoulle and Demetrius J. Porche},
+  title   = {Parkinson's Disease: Assessment, Diagnosis, and Managment},
+  journal = {The Journal for Nurse Practitioners},
+  year    = {2014},
+  volume  = {10},
+  number  = {7},
+  pages   = {500-506},
+  issn    = {1555-4155},
+}
+
+@Article{levine2003,
+  author  = {Cindy B. Levine and Kyle R. Fahrbach and Andrew D. Siderowf and Rhonda P. Estok and Veronica M. Ludensky and Susan D. Ross},
+  title   = {Diagnosis and Treatment of Parkinson’s Disease: A Systematic Review of the Literature},
+  journal = {AHRQ},
+  year    = {2003},
+  issn    = {290-97-0016},
+}
+
+@Article{reich2010,
+  author  = {Heinz Reichmann},
+  title   = {Clinical Criteria for the Diagnosis of Parkinson’s Disease},
+  journal = {Neuro-Degenerative Diseases},
+  year    = {2010},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

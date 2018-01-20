@@ -12,13 +12,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1008
-NormalPos.bottom=346
+NormalPos.bottom=495
 Class=LaTeXView
 Document=TCC-EMANOEL.tex
 
 [Frame0_View0,0]
-TopLine=557
-Cursor=20857
+TopLine=592
+Cursor=23728
 
 [Frame1]
 Flags=0
@@ -30,7 +30,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1008
-NormalPos.bottom=346
+NormalPos.bottom=495
 Class=BibTeXView
 Document=abntex2-modelo-references.bib
 

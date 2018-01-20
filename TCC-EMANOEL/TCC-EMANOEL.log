@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.21)  18 JAN 2018 01:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.21)  19 JAN 2018 20:07
 entering extended mode
 **./TCC-EMANOEL.tex
 (TCC-EMANOEL.tex
@@ -1182,21 +1182,13 @@ Overfull \hbox (1.3121pt too wide) in paragraph at lines 45--45
 
 ] [14
 
-]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 497.
- (C:\MikTex_TexStudio\tex\latex\lm\omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 497.
- [15] [16] [17
+] [15] [16] [17
 
 ] [18
 
 ] [19
 
-] (TCC-EMANOEL.bbl
-(TCC-EMANOEL.brf)
+] (TCC-EMANOEL.bbl (TCC-EMANOEL.brf)
 \tf@brf=\write5
 \openout5 = `TCC-EMANOEL.brf'.
 
@@ -1213,7 +1205,7 @@ bibitemlist
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 599.
+(hyperref)                removing `\uppercase' on input line 591.
 
 [22
 
@@ -1225,7 +1217,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 627.
+(hyperref)                removing `\uppercase' on input line 619.
 
 [25
 
@@ -1248,37 +1240,44 @@ AED: lastpage setting LastPage
 \tf@toc=\write8
 \openout8 = `TCC-EMANOEL.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 655.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 655.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 647.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 647.
  (TCC-EMANOEL.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 655.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 655.
-Package rerunfilecheck Info: File `TCC-EMANOEL.brf' has not changed.
-(rerunfilecheck)             Checksum: 40C8CED2156A8B6F1540C2FBE2DE04EA;757.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 647.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 647.
 
+
+Package rerunfilecheck Warning: File `TCC-EMANOEL.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `TCC-EMANOEL.brf':
+(rerunfilecheck)             Before: A99BAEC59AC26CEB0943BBA5E3128E0C;1049
+(rerunfilecheck)             After:  D8289CA1400C107EE52DAD2FE705DEC4;1049.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 655.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 647.
  ) 
 Here is how much of TeX's memory you used:
- 14205 strings out of 493312
- 209440 string characters out of 3142379
- 468993 words of memory out of 3000000
- 17347 multiletter control sequences out of 15000+200000
+ 14212 strings out of 493312
+ 209555 string characters out of 3142379
+ 470525 words of memory out of 3000000
+ 17354 multiletter control sequences out of 15000+200000
  77877 words of font info for 107 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,12n,38p,1672b,529s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/MikTex_TexStudio/fonts/enc/dvips/lm/lm-ec.enc}{C:/MikTex_TexStudio/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/MikTex_Tex
-Studio/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MikTex_TexStudio/fonts/enc/dvips/lm/lm-rm.enc}<C:/MikTex_TexStudio/fonts/typ
-e1/public/lm/lmbx12.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmcsc10.pfb><C:/MikTex_TexStudio/fonts/type1/public/l
-m/lmmi12.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmr10.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmr12.pfb><
-C:/MikTex_TexStudio/fonts/type1/public/lm/lmri10.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmri12.pfb><C:/MikTex_Te
-xStudio/fonts/type1/public/lm/lmss12.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmss17.pfb><C:/MikTex_TexStudio/font
-s/type1/public/lm/lmssbx10.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmsy10.pfb>
-Output written on TCC-EMANOEL.pdf (29 pages, 303668 bytes).
+pdfTeX warning (dest): name{subsection.1.1.7} has been referenced but does not exist, replaced by a fixed one
+
+{C:/MikTex_TexStudio/fonts/enc/dvips/lm/lm-ec.enc}{C:/MikTex_TexStudio/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/MikTex_TexSt
+udio/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MikTex_TexStudio/fonts/enc/dvips/lm/lm-rm.enc}<C:/MikTex_TexStudio/fonts/type1
+/public/lm/lmbx12.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmcsc10.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/
+lmmi12.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmr10.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmr12.pfb><C:
+/MikTex_TexStudio/fonts/type1/public/lm/lmri10.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmri12.pfb><C:/MikTex_TexS
+tudio/fonts/type1/public/lm/lmss12.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmss17.pfb><C:/MikTex_TexStudio/fonts/
+type1/public/lm/lmssbx10.pfb><C:/MikTex_TexStudio/fonts/type1/public/lm/lmsy10.pfb>
+Output written on TCC-EMANOEL.pdf (29 pages, 307661 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 86 named destinations out of 1000 (max. 500000)
- 27921 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 437 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
+ 27913 words of extra memory for PDF output out of 29859 (max. 10000000)
 
