@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=TCC-EMANOEL.tex
 
 [Frame0_View0,0]
-TopLine=592
-Cursor=23728
+TopLine=618
+Cursor=26609
 
 [Frame1]
 Flags=0

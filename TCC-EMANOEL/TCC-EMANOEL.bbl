@@ -11,6 +11,13 @@
 \emph{Revista Neurociências}, 2005.
 ISSN 1984-4905.}
 
+\bibitem[Jellinger 2015]{jellinger2015}
+\abntrefinfo{Jellinger}{JELLINGER}{2015}
+{JELLINGER, K.~A. How close are we to reveal the etiology of parkinson’s
+  disease?
+\emph{Expert Review of Neurotherapeutics}, v.~15, n.~10, p. 1105--1107, 2015.
+ISSN 174-483-60.}
+
 \bibitem[Kalia e Lang 2015]{kalia2015}
 \abntrefinfo{Kalia e Lang}{KALIA; LANG}{2015}
 {KALIA, L.; LANG, A. Parkinson's disease.
@@ -42,6 +49,17 @@ ISSN 7264201000570.}
 \emph{The Journal for Nurse Practitioners}, v.~10, n.~7, p. 500--506, 2014.
 ISSN 1555-4155.}
 
+\bibitem[Olanow e Tatton 2000]{olanow2000}
+\abntrefinfo{Olanow e Tatton}{OLANOW; TATTON}{2000}
+{OLANOW, C.~W.; TATTON, W.~G. Etiology and pathogenesis of parkinson's disease.
+\emph{Annu. Rev. Neurosci}, v.~22, p. 123--44, 2000.}
+
+\bibitem[Rana 2011]{rana2011}
+\abntrefinfo{Rana}{RANA}{2011}
+{RANA, A.~Q. \emph{ETIOLOGY AND PATHOPHYSIOLOGY OF PARKINSON'S DISEASE}.
+  [S.l.]: InTech, 2011.
+ISBN 978-953-307-462-7.}
+
 \bibitem[Reichmann 2010]{reich2010}
 \abntrefinfo{Reichmann}{REICHMANN}{2010}
 {REICHMANN, H. Clinical criteria for the diagnosis of parkinson’s disease.
@@ -58,5 +76,10 @@ ISSN 2321-5674.}
 {SCHECHTER, D. L.~C. S.~H. \emph{Understanding Parkinson's Disease: A Self-Help
   Guide}. 3. ed. [S.l.]: Addicus Books, 2016. v.~1.
 ISBN 978-1-943886-45-6.}
+
+\bibitem[ZIGMOND e BURKE 2000]{zigmond2000}
+\abntrefinfo{ZIGMOND e BURKE}{ZIGMOND; BURKE}{2000}
+{ZIGMOND, M.~J.; BURKE, R.~E. Pathophysiology of parkinson ’ s disease.
+\emph{Neuroscience}, 2000.}
 
 \end{thebibliography}

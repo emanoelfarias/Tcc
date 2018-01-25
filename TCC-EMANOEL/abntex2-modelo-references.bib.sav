@@ -1,0 +1,130 @@
+% Encoding: UTF-8
+
+@Book{limongi2001,
+  title     = {Conhecendo melhor a doença de Parkinson},
+  publisher = {Plexus},
+  year      = {2001},
+  author    = {João Carlos Papaterra Limongi},
+  address   = {São Paulo},
+  isbn      = {97-8858-568-95-51},
+}
+
+@Article{moreira2007,
+  author  = {Moreira and Cs Martins and Kfc Neri and Vc Araújo},
+  title   = {Doença De Parkinson : Como Diagnosticar E Tratar},
+  journal = {FMC.BR},
+  year    = {2007},
+  issn    = {7264201000570},
+}
+
+@Article{coelho2011,
+  author  = {Rhaonne Figueiredo Coelho and Gustavo Lopes Dias and Gracilene Félix Alves and Andressa Pitanga Serafim},
+  title   = {DOENÇA DE PARKINSON: UMA REVISÃO DA LITERATURA},
+  journal = {Revista Neurociências},
+  year    = {2011},
+}
+
+@Article{souza2011,
+  author  = {Cheylla Fabricia M Souza and Helayne Carolyne P Almeida and Jomário Batista Sousa and Pedro Henrique Costa and Yonara Sonaly S Silveira and João Carlos L Bezerra},
+  title   = {A Doença de Parkinson e o Processo de Envelhecimento Motor: Uma Revisão de Literatura},
+  journal = {Revista Neurociências},
+  year    = {2011},
+}
+
+@Book{ebook2016,
+  title     = {Understanding Parkinson's Disease: A Self-Help Guide},
+  publisher = {Addicus Books},
+  year      = {2016},
+  author    = {Steven H. Schechter, David L. Cra},
+  volume    = {1},
+  number    = {1},
+  edition   = {3},
+  isbn      = {978-1-943886-45-6},
+}
+
+@Article{rewar2015,
+  author  = {Suresh Rewar},
+  title   = {A systematic review on Parkinson's disease (PD)},
+  journal = {Indian Journal of Research in Pharmacy and Biotechnology},
+  year    = {2015},
+  issn    = {2321-5674},
+}
+
+@Article{kalia2015,
+  author  = {L.V. Kalia and A.E. Lang},
+  title   = {Parkinson's disease},
+  journal = {The Lancet},
+  year    = {2015},
+}
+
+@Article{barbosa2005,
+  author  = {Egberto Reis Barbosa and Flávio Augusto Sekeff Sallen},
+  title   = {Doença de Parkinson - Diagnóstico},
+  journal = {Revista Neurociências},
+  year    = {2005},
+  issn    = {1984-4905},
+}
+
+@Article{nolden2014,
+  author  = {Leslie F. Nolden and Todd Tartavoulle and Demetrius J. Porche},
+  title   = {Parkinson's Disease: Assessment, Diagnosis, and Managment},
+  journal = {The Journal for Nurse Practitioners},
+  year    = {2014},
+  volume  = {10},
+  number  = {7},
+  pages   = {500-506},
+  issn    = {1555-4155},
+}
+
+@Article{levine2003,
+  author  = {Cindy B. Levine and Kyle R. Fahrbach and Andrew D. Siderowf and Rhonda P. Estok and Veronica M. Ludensky and Susan D. Ross},
+  title   = {Diagnosis and Treatment of Parkinson’s Disease: A Systematic Review of the Literature},
+  journal = {AHRQ},
+  year    = {2003},
+  issn    = {290-97-0016},
+}
+
+@Article{reich2010,
+  author  = {Heinz Reichmann},
+  title   = {Clinical Criteria for the Diagnosis of Parkinson’s Disease},
+  journal = {Neuro-Degenerative Diseases},
+  year    = {2010},
+}
+
+@Article{olanow2000,
+  author  = {C. W. Olanow and W. G. Tatton},
+  title   = {Etiology and Pathogenesis of Parkinson'S Disease},
+  journal = {Annu. Rev. Neurosci},
+  year    = {2000},
+  volume  = {22},
+  pages   = {123-44},
+}
+
+@Article{zigmond2000,
+  author  = {MICHAEL J. ZIGMOND and ROBERT E. BURKE},
+  title   = {PATHOPHYSIOLOGY OF PARKINSON ’ S DISEASE},
+  journal = {Neuroscience},
+  year    = {2000},
+}
+
+@Article{jellinger2015,
+  author  = {Kurt A Jellinger},
+  title   = {How close are we to reveal the etiology of Parkinson’s disease?},
+  journal = {Expert Review of Neurotherapeutics},
+  year    = {2015},
+  volume  = {15},
+  number  = {10},
+  pages   = {1105-1107},
+  issn    = {174-483-60},
+}
+
+@Book{r,
+  title     = {ETIOLOGY AND PATHOPHYSIOLOGY OF PARKINSON'S DISEASE},
+  publisher = {InTech},
+  year      = {2011},
+  author    = {Abdul Qayyum Rana},
+  editor    = {Teodora Smiljanic},
+  isbn      = {978-953-307-462-7},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
