@@ -175,13 +175,22 @@
   number  = {9/10},
 }
 
-@Monography{saito2011,
-  author = {Tane Christine Saito},
-  title  = {A Doença de Parkinson e Seus Tratamentos: uma revisão bibliográfica},
-  school = {Centro Universitário Filadélfia –UniFil},
-  year   = {2011},
+@Article{saito2011,
+  author  = {Tane Christine Saito},
+  title   = {A Doença de Parkinson e Seus Tratamentos: uma revisão bibliográfica},
+  year    = {2011},
+  address = {Londrina},
+  school  = {Centro Universitário Filadélfia},
+}
+
+@Article{sanfelice2004,
+  author  = {ANDRÉ Edison Sanfelice},
+  title   = {Moléstia de Parkinson},
+  journal = {Fisioterapia em Movimento},
+  year    = {2004},
+  volume  = {16},
+  number  = {1},
+  pages   = {11-24},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
-
-@Comment{jabref-entrytype: Monography: req[author;title;school;year] opt[type;address;mounth;note]}
