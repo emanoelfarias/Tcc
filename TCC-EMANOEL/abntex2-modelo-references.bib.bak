@@ -193,4 +193,49 @@
   pages   = {11-24},
 }
 
+@Article{volk2007,
+  author  = {Jens Volkmann},
+  title   = {Update on surgery for Parkinson’s disease},
+  journal = {Current Opinion in Neurology},
+  year    = {2007},
+}
+
+@Article{yanni2003,
+  author  = {John Yianni and Tipu Aziz},
+  title   = {Surgical treatment of Parkinson’s Disease},
+  journal = {ACNR},
+  year    = {2003},
+  volume  = {2},
+  number  = {6},
+}
+
+@Article{ferraz,
+  author  = {Henrique Ballalai Ferraz},
+  title   = {Tratamento da Doença de Parkinson},
+  journal = {Rev. Neurociências},
+  year    = {2000},
+  volume  = {6},
+  number  = {12},
+}
+
+@Article{teixeira2004,
+  author  = {Manoel jacobsen Teixeira and Eirch Talammoni Fonoff},
+  title   = {Tratamento cirúrgico da doença de Parkinson},
+  journal = {Rev Med},
+  year    = {2004},
+  volume  = {83},
+  number  = {1},
+  pages   = {1-16},
+}
+
+@Article{bronstein2011,
+  author  = {Jeff M. Bronstein and Michele Tagliati and L. Alterman and Andres M. Lozano and Jens Volkmann and Alessandro Stefani and Fay B. Horak and Michael S. Okun},
+  title   = {Deep Brain Stimulation for Parkinson Disease},
+  journal = {Arch Neurol},
+  year    = {2011},
+  volume  = {68},
+  number  = {2},
+  pages   = {165-171},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
